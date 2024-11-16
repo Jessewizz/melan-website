@@ -1,0 +1,112 @@
+/* 
+selected tag {
+property: value }
+ */
+#section{
+    background: url(cover.jpeg) ;
+    padding-top: 4%;
+    background-repeat: no repeat;
+    background-size: cover;
+  min-height: 400px; 
+  border-bottom: #0ba0dbfd solid 4px;
+  border-top:#0ba0dbfd solid 4px;
+}
+ form {
+    
+    margin-top: 34px;
+    margin-bottom: 14%;
+    padding-inline: 15px;
+}
+form h1 img{
+    padding-top: -7px;
+    background-size: 54px;
+    height: 100px;
+    margin-top: -10%;
+}
+button{
+    float: right;
+    margin-bottom: 13%;
+    text-align: center;
+    padding-right: 1%;
+    padding: none;
+    color: brown;
+    
+} 
+button:hover{
+    color:black;
+}
+#section h1{
+    color: rgb(17, 8, 8);
+    text-align: left;
+    margin-left: 14px;
+    font-size: 50px;
+    margin-top: 6px;
+
+}
+#links {
+    text-align: left;
+    margin-left: 14px;
+    padding-left: 4%;
+    color: green;
+    font-size: 24px;
+}
+#links:hover{
+color:brown;
+}
+#links a{
+    color: rgb(23, 5, 73);
+}
+#links a:hover{
+    color:rgba(197, 26, 4, 0.932);
+    font: 84px;
+}
+/* body */
+body{
+    background:#f3eded;
+}
+#body h3{
+    margin-left: 34px ;
+color: rgb(247, 185, 72);
+font-size: 49px;
+}
+#body h1{
+    margin-left: 34px ;
+    color: #aa530e ;
+    font-size: 65px;
+}
+#body h2{
+    color: rgb(71, 67, 67);
+    font-size: 39px;
+}
+nav h5{
+    text-align: center;
+    font-size: 12px;
+}
+.learn button {
+    margin:280px; 
+    width: 670px;
+    margin-top: 0.5%;
+    font-size: 34px;
+    float: left;
+  
+    line-height: 40px;
+    padding: 15px;
+   
+    border-radius: 10px;
+    background: brown;
+    color: white;
+    border: 34px;
+}
+header img{
+    margin: cover;
+    text-align: 43px;
+    margin-top: 3px;
+    padding: auto;
+    color: white;
+    height: 29px;
+    float: right;
+    width:35px ;
+}
+hearder h6{
+    color: #aa530e;
+}
